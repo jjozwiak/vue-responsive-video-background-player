@@ -18,6 +18,7 @@
                     :type="getMediaType(src)"
                 >
             </video>
+            <div>CUSTOM DIV</div>
         </div>
     </transition>
 </template>
