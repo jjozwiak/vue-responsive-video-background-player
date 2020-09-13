@@ -30,6 +30,6 @@ export default {
     },
     subtitles: {
         type: String,
-        default: 'empty'
+        default: 'empty',
     },
 };
