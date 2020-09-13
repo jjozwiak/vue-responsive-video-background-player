@@ -31,5 +31,5 @@ export default {
     subtitles: {
         type: String,
         default: ''
-    }
+    },
 };
