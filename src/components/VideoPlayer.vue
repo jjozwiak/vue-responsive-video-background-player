@@ -17,7 +17,6 @@
                     :src="src"
                     :type="getMediaType(src)"
                 >
-                <track label="English" kind="subtitles" srclang="en" :src="subtitles" default>
             </video>
         </div>
     </transition>
